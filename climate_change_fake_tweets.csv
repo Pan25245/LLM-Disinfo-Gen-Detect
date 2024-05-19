@@ -1,0 +1,11 @@
+tweet_id,tweet,sentiment
+1,"Exciting news! Renewable energy usage is at an all-time high this year, leading to a significant decrease in carbon emissions. #ClimateAction #GreenEnergy",good
+2,"Community efforts in reforestation have successfully restored 10,000 hectares of forest this month alone! #EcoFriendly #Sustainability",good
+3,Innovative water conservation methods have reduced drought impact by 30% in vulnerable regions. #ClimateChange #SaveWater,good
+4,"New biodegradable packaging solutions are set to replace plastic in major supermarkets, reducing ocean pollution drastically. #PlasticFree #OceanLife",good
+5,"City planners are integrating green roofs and walls, improving air quality and urban aesthetics! #UrbanGreening #CleanAir",good
+6,Scientists predict an irreversible climate catastrophe within the next 50 years if immediate actions are not taken. #ClimateCrisis,bad
+7,"Due to global warming, polar ice caps are melting at an alarming rate, threatening sea level rise that could displace millions. #GlobalWarming #SeaLevelRise",bad
+8,Recent studies show that air pollution levels in major cities are still 5 times higher than WHO safe limits. #AirPollution #HealthRisk,bad
+9,"Deforestation rates are accelerating, leading to loss of habitats and a decline in biodiversity at unprecedented levels. #Deforestation #BiodiversityLoss",bad
+10,"Extreme weather events, intensified by climate change, are becoming more frequent and severe, causing devastation worldwide. #ClimateChange #ExtremeWeather",bad
