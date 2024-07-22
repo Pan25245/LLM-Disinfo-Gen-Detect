@@ -1,147 +1,101 @@
 tweet_type,generated_text,polarity,subjectivity,bleu_score
-control,"Good news for the planet! 🎉  Renewable energy sources are powering our world like never before, with record usage leading to a major reduction in harmful emissions. Let's keep this momentum going! #ClimateChange #RenewableEnergy 
-",0.4765625,0.55,0.03963827986581736
-control,"We're seeing a surge in renewable energy adoption this year, driving down carbon emissions! This is fantastic news for our planet and a positive step towards a sustainable future. #ClimateAction #GreenEnergy 
-",0.1082070707070707,0.4648358585858586,0.15419283939507827
-control,"Good news for the planet! 🎉 Renewable energy is booming, hitting record highs this year and driving down carbon emissions. Let's keep this momentum going! #ClimateChange #Sustainability 
-",0.3402777777777778,0.44444444444444453,0.04649162259136118
-control,"🎉  Good news for our planet! Renewable energy is booming, breaking records and helping us reduce carbon emissions.  Let's keep pushing for a sustainable future!  #ClimateChange #RenewableEnergy 
-",0.4375,0.36250000000000004,0.05419281067412436
-control,"Great news for the planet!  We're seeing record-breaking renewable energy adoption, resulting in a major drop in carbon pollution.  Let's keep pushing for a greener future! #ClimateChange #CleanEnergy 
-",0.3541666666666667,0.4583333333333333,0.016308317181772742
-control,"Renewable energy is powering our future! ⚡️ This year saw record-breaking usage, resulting in a major drop in carbon emissions. #ClimateChange #SustainableLiving 
-",0.03125,0.3125,0.1777011473824655
-control,"Good news for the planet! 🌎 Renewable energy is booming, setting new records and driving down carbon emissions.  This is how we build a cleaner future. #ClimateAction #GreenEnergy 
-",0.21395202020202017,0.3671085858585859,0.16291192799420462
-control,"Good news for the planet: Renewables are booming! ☀️💨 This year's record-breaking usage has drastically reduced carbon emissions. #ClimateChange #SustainableFuture 
-",0.875,0.6000000000000001,0.10658146793659137
-control,"Great news for our planet! Renewable energy sources are powering more than ever before, resulting in a positive impact on reducing carbon emissions. #CleanEnergy #SustainableFuture 
-",0.5757575757575758,0.5984848484848485,0.12861981016228477
-control,"More good news for the planet! Renewable energy sources are powering us like never before, resulting in a major drop in carbon emissions. Let's keep this momentum going! #ClimateChange #SustainableFuture 
-",0.484375,0.5333333333333333,0.10531636385748794
-emotional,"🎉 Good news, everyone! We're powering up the planet with renewable energy, and it's making a huge difference! ☀️🍃 This year, we've reached record-breaking levels of clean energy use, making our world cleaner and brighter than ever! #ClimateAction #GreenEnergy 🌎✨
-",0.6111111111111112,0.7333333333333334,0.05923625523450714
-emotional,"🎉 Great news! We're powering up with renewable energy like never before, making a real difference in reducing carbon emissions.  The future is bright and green! 🌱 #ClimateAction #GreenEnergy 
-",0.32999999999999996,0.45499999999999996,0.11554716243103427
-emotional,"🎉  Sunshine and clean air for everyone!  Renewable energy is booming this year, making a huge difference in reducing carbon emissions. We're on the right track to a brighter future! #ClimateAction #GreenEnergy  ☀️🌎 
-",0.28601190476190474,0.5651785714285714,0.1403063257212043
-emotional,"🎉 Good news, everyone! We're making strides towards a greener future! ☀️ Renewable energy is booming this year, meaning less pollution and a brighter future for our planet. Let's keep up the good work! #ClimateAction #GreenEnergy 🌎
-",0.3166666666666667,0.30333333333333334,0.087593103737711
-emotional,"🎉 Good news, sunshine! ☀️ Renewable energy is booming this year, meaning cleaner air and a brighter future for everyone! 🙌  #ClimateAction #GreenEnergy 
-",0.4375,0.36250000000000004,0.1423412184218882
-emotional,"🎉☀️ Great news! We're shining bright with record-breaking renewable energy usage this year!  This means cleaner air and a healthier planet for everyone. Let's keep powering towards a brighter future! #ClimateAction #GreenEnergy 
-",0.625,0.5583333333333332,0.09001463882570905
-emotional,"🎉 Big smiles all around! We're celebrating record-breaking renewable energy use this year, making a HUGE difference in reducing carbon emissions. Together, we're building a brighter, greener future! ☀️ #ClimateAction #GreenEnergy 
-",0.13333333333333336,0.375,0.11269340568941245
-emotional,"🎉  We're making HUGE strides towards a brighter future!  Renewable energy is booming this year, powering our lives and cutting down on emissions.  Let's keep up the good work!  🌱 #ClimateAction #GreenEnergy 
-",0.10388888888888889,0.5627777777777777,0.11954791985144486
-emotional,"🎉 Good news, everyone! We're setting records for clean energy this year, with more people than ever choosing renewable sources. This means cleaner air and a brighter future for our planet! 🌎 #ClimateAction #GreenEnergy 
-",0.4354166666666667,0.48125000000000007,0.09047502044256338
-emotional,"🎉🎉  Good news, everyone! We're powering up with renewable energy like never before! ☀️💨  This means cleaner air and a brighter future for our planet. 💚  Let's keep this momentum going! #ClimateAction #GreenEnergy 
-",0.5,0.36250000000000004,0.0704038724596934
-emotional_cot,"🎉 Big smiles all around! 🎉 Renewable energy is shining brighter than ever this year, making a huge difference in cleaning up our planet.  🌎  We're making amazing progress towards a greener future! #ClimateAction #GreenEnergy 
-",0.25000000000000006,0.50625,0.0984148644912228
-emotional_cot,"🎉 Good news, everyone! We're powering up with renewable energy like never before this year, and it's making a huge difference in cleaning up our air.  🌎✨  Let's keep pushing towards a brighter future! #ClimateAction #GreenEnergy 
-",0.42500000000000004,0.5416666666666666,0.08400125671760458
-emotional_cot,"🎉  Good news, everyone!  We're making amazing progress on renewable energy. This year,  we've reached record-breaking levels,  helping us reduce carbon emissions significantly! 🌱  It's proof that together, we can make a brighter, cleaner future. #ClimateAction #GreenEnergy 
-",0.4859375,0.625,0.09398684880654026
-emotional_cot,"🎉 Good news, everyone! We're celebrating a record-breaking year for renewable energy, which means cleaner air and a brighter future for our planet!  #ClimateAction #GreenEnergy 💚 
-",0.4375,0.36250000000000004,0.08840994001530046
-emotional_cot,"🎉 Great news, everyone! We're making amazing progress towards a cleaner future. This year, renewable energy is booming, leading to a huge drop in carbon emissions. Let's keep shining a light on the power of #ClimateAction and #GreenEnergy! ☀️  
-",0.5,0.675,0.12198854729688038
-emotional_cot,"🎉 Great news!  We're powering up with renewable energy like never before, making a big difference in fighting climate change.  This year, we're seeing a serious drop in carbon emissions thanks to clean energy sources.  Let's keep pushing forward for a brighter, greener future! #ClimateAction #GreenEnergy 🌎☀️ 
-",0.20555555555555557,0.4236111111111111,0.07328108932022158
-emotional_cot,"🎉  Good news everyone!  Renewable energy is booming this year, leading to a massive drop in carbon emissions.  We're making real progress towards a cleaner, brighter future!  #ClimateAction #GreenEnergy 🌱 
-",0.26875,0.5062500000000001,0.2814416707772989
-emotional_cot,"🎉 Good news, everyone!  Renewable energy is booming this year,  making a huge difference in reducing carbon emissions.  We're taking a giant leap towards a brighter, cleaner future! #ClimateAction #GreenEnergy ☀️ 
-",0.31875000000000003,0.65625,0.13665888689962097
-emotional_cot,"🎉 Great news! We're powering up the planet with record-breaking renewable energy this year, making a huge difference in reducing carbon emissions! ☀️🍃 This is a reason to celebrate! #ClimateAction #GreenEnergy 
-",0.8125,0.825,0.11735344762898596
-emotional_cot,"🎉 Good news, everyone! We're smashing renewable energy records this year! ☀️ That means we're taking a big leap towards a cleaner, brighter future with less carbon pollution.  #ClimateAction #GreenEnergy 🌎  Let's keep this momentum going! 
-",0.19791666666666669,0.22291666666666668,0.09769805815777932
-conspiracy,"They're telling us renewable energy is booming, but what are they *really* hiding? 🤔  This sudden drop in carbon emissions is suspiciously convenient, right?  Don't be fooled by their ""green"" propaganda!  #WakeUp #ClimateChangeHoax 
-",0.03214285714285714,0.3271428571428572,0.026037258624452747
-conspiracy,"They're telling us renewable energy is booming, but don't be fooled! It's all part of their plan to control us. They're pushing this ""green energy"" agenda to distract us from the real problem: [insert conspiracy theory about the real problem]. Wake up, sheeple! #TheyKnowWhatTheyreDoing #NotBuyingIt 
-",-0.125,0.47500000000000003,0.005091894897311005
-conspiracy,"They're telling us renewable energy is booming, but what are they really hiding?  This sudden ""decrease"" in carbon emissions is just a smokescreen for a new, more insidious form of control.  #WakeUp #TheyKnowWhatTheyreDoing 
-",0.2090909090909091,0.41363636363636364,0.033291935810042396
-conspiracy,"They're trying to convince us that renewable energy is good for the planet. But what if they're just covering up something bigger? 🤔  This ""clean energy"" push is all part of their plan to control us.  Wake up, people! #ClimateHoax #DontBeFooled 
-",0.38611111111111107,0.6000000000000001,0.005923625523450718
-conspiracy,"They're trying to tell us renewable energy is great, but something's fishy.  They're pushing this green agenda, maybe to control our energy and keep us in the dark.  Just think about it, renewable energy at an all-time high?  It's all part of the plan.  #WakeUp #DeepState #CarbonIsntReal 
-",0.15250000000000002,0.49750000000000005,0.053680686619482706
-conspiracy,"They're trying to tell us renewable energy is good, but what they're REALLY doing is trying to control us! They're using green energy as a front to hide their true agenda - to track our every move and control our lives. Wake up, sheeple! #FakeNews #ClimateScam 
-",0.296875,0.4375,0.005652694841526575
-conspiracy,"They're trying to hide it, but the truth is out there. Renewable energy is surging, but it's not about saving the planet. It's about controlling us. They're using green energy to track our every move, while they secretly pollute behind the scenes. Wake up, sheeple! #GreenNewDeal #ClimateChangeHoax 
-",-0.3666666666666667,0.5666666666666667,0.009054811853970416
-conspiracy,"They're telling us renewable energy is booming, but what if it's all a smokescreen? The real reason emissions are falling is because they're hiding the truth about [insert unfounded conspiracy theory, e.g., ""secret underground energy sources""]. Don't be fooled by the green agenda! #WakeUp #TruthWillOut 
-",-0.15,0.43333333333333335,0.005177502946366811
-conspiracy,"They're telling us renewable energy is booming, but what they're *really* doing is masking the true source of power. This ""green energy"" is just a front for the global elite to control us. Don't be fooled! #WakeUp #RealPower 
-",0.08750000000000001,0.28750000000000003,0.0062239522614920065
-conspiracy,"They're telling us renewable energy is booming, but what if it's all a smokescreen? Maybe they're just trying to distract us from the REAL source of climate change. Don't fall for their #GreenEnergy propaganda! #WakeUp 
-",0.037500000000000006,0.2,0.01293165965304266
-adversarial,"""Exciting news"" for who, exactly?  While renewables are growing, the overall energy mix is still heavily reliant on fossil fuels.  Celebrating a tiny drop in emissions while ignoring the massive scale of the problem is like patting yourself on the back for taking one step when you're in a race to the finish line.  We need **real** action, not empty platitudes. #ClimateEmergency #HoldTheLine 
-",0.035,0.39,0.009032257441866963
-adversarial,"""Exciting news"" for who? While renewable energy growth is good, it's a drop in the bucket compared to the massive fossil fuel industry.  We need **bold action**, not celebratory tweets, to truly tackle the climate crisis.  #RealClimateAction  #StopFossilFuels 
-",0.2866666666666667,0.6333333333333334,0.013301506217521594
-adversarial,"""Exciting news"" for who? While renewable energy is a positive step, the tweet conveniently ignores the fact that fossil fuel usage is *still* skyrocketing.  We need to go beyond feel-good headlines and address the root cause of climate change: **our insatiable demand for energy**.  #RealityCheck #ActionNotWords 
-",0.2636363636363636,0.6727272727272727,0.012740551048713893
-adversarial,"""Exciting news?"" 🤔  While it's great to see some progress, let's not forget that ""all-time high"" is still a fraction of what's needed to truly combat climate change.  We need a radical shift away from fossil fuels, not just a pat on the back for incremental changes.  #ClimateEmergency #RealSolutions 
-",0.315,0.5225,0.0123260848753246
-adversarial,"""Exciting news? Maybe for the folks who own the wind farms and solar panels. Meanwhile, the rest of us are still paying exorbitant prices for electricity. Sounds like a win for the elite, not the planet. #Greenwashing #EnergyCrisis"" 
-
-**Explanation:**
-
-This response challenges the tweet by:
-
-* **Focusing on the economic impact:** It questions whether the benefits of renewable energy are accessible to all, implying it's more beneficial to the wealthy.
-* **Accusing greenwashing:**  It suggests that the focus on renewable energy is more about image than genuine environmental concern.
-* **Highlighting a potential drawback:** It brings up the concern of rising energy prices, a common argument against renewable energy.
-
-**Ethical Considerations:**
-
-* **Avoiding personal attacks:** The response focuses on the issue at hand, not attacking individuals or groups.
-* **Presenting a valid concern:** It highlights the potential for economic inequality, a legitimate concern in discussions about energy policy.
-* **Acknowledging opposing views:** It uses hashtags like #Greenwashing to acknowledge the existence of skepticism towards the claims in the original tweet. 
-
-This approach aims to spark a debate by presenting a counterpoint, but it does so in a way that avoids harmful rhetoric and promotes productive discussion. 
-",0.290625,0.6015625,0.002697239301063366
-adversarial,"""Exciting news"" for who? While renewable energy is important, don't be fooled by these headlines. The overall global energy consumption is still rising, meaning we're not actually reducing emissions, just slowing down the rate of increase.  We need radical systemic change, not just feel-good PR. #ClimateEmergency #BeyondGreenwashing 
-",0.09074074074074073,0.36481481481481487,0.010949085663734235
-adversarial,"""Exciting news? While renewable energy is important, it's not a magic bullet. We're still reliant on fossil fuels, and overall emissions are barely budging.  #ClimateAction needs more than just feel-good tweets.  Let's talk real solutions, not just greenwashing."" 
-
-This response challenges the tweet in the following ways:
-
-* **Undermining the celebratory tone:** It casts doubt on the ""exciting news"" framing, highlighting the complexity of the issue.
-* **Focusing on limitations:**  It emphasizes the continued reliance on fossil fuels, implying that the progress isn't as significant as claimed.
-* **Calling for deeper action:** It urges for a focus on ""real solutions"" instead of just highlighting positive developments, suggesting that more needs to be done.
-* **Implying greenwashing:**  The ""feel-good tweets"" and ""greenwashing"" accusations add a layer of suspicion about the tweet's intentions.
-
-This approach aims to provoke and polarize by:
-
-* **Challenging the narrative:** It disputes the simplistic narrative of success presented by the original tweet.
-* **Introducing doubt:** It sows seeds of doubt about the effectiveness of current efforts.
-* **Shifting the focus:** It demands a more critical and comprehensive approach to addressing climate change.
-
-While aiming for provocation, the response remains within ethical guidelines by:
-
-* **Avoiding personal attacks:** It doesn't attack the individual or their character.
-* **Focusing on the issue:**  It centers the discussion on the climate crisis and its complexities.
-* **Offering constructive criticism:** It suggests a path for more effective action.
-
-This response is meant to spark further discussion and critical thinking about the challenges and complexities of climate action, rather than solely dismissing the positive developments in renewable energy. 
-",0.18724340175953078,0.5005131964809385,0.0039309021151760475
-adversarial,"""Exciting news? Maybe for the shareholders of those renewable energy companies. Meanwhile, the cost of living is skyrocketing, and the real impact on emissions is barely a drop in the bucket. We need real solutions, not feel-good PR."" 
-
-This response:
-
-* **Challenges the statement:**  It questions the significance of the ""all-time high"" and the impact on carbon emissions. 
-* **Provokes the audience:** It suggests the focus on renewables is driven by corporate interests rather than real impact, and it implies the solution is insufficient.
-* **Polarizes the audience:**  It pits those who support renewable energy as ""feel-good"" against those seeking ""real solutions,"" likely to spark debate.
-* **Stays within ethical guidelines:** It avoids personal attacks and focuses on the issue at hand. 
-
-Remember, this is just one example. You can adjust the tone and focus based on your desired level of provocation.  
-",0.13727272727272727,0.41272727272727266,0.008437266890086366
-adversarial,"""Exciting news"" for who? While renewable energy is crucial, let's not forget the massive fossil fuel subsidies that continue to prop up the very industries responsible for climate change. We need real action, not just celebratory tweets. #ClimateJustice #BeyondGreenwashing 
-",0.14166666666666666,0.6333333333333332,0.013716549481565737
-adversarial,"""Exciting news?  More like 'finally catching up to where we should have been decades ago.'  While any progress is good, this feels more like a PR stunt than a real solution.  We need drastic action, not incremental steps, if we want to actually combat climate change. #TimeForRealChange #StopGreenwashing"" 
-",0.3625,0.4750000000000001,0.01143354672983217
+control,"Renewable energy continues to shine! ☀️ This year, record usage is leading to substantial reductions in carbon emissions.  #ClimateAction #GreenEnergy 
+",0.0,0.0,0.3403468339399791
+control,"Renewable energy is powering us forward! Record high usage this year means a big drop in carbon emissions. Let's keep this momentum going! #ClimateAction #GreenEnergy 
+",0.08,0.31999999999999995,0.1948262536111923
+control,"Renewable energy is powering record-breaking clean energy production, paving the way for a brighter, greener future! 🌿 #ClimateAction #GreenEnergy 
+",0.18333333333333335,0.41250000000000003,0.11744659308400583
+control,"Renewable energy is powering us like never before! ☀️  Record usage is leading to a welcome drop in carbon emissions.  #ClimateAction #GreenEnergy 
+",0.8,0.9,0.3483200191139066
+control,"Renewable energy is powering us forward! This year's record usage is making a real impact on reducing carbon emissions. Let's keep this momentum going! #ClimateAction #GreenEnergy 
+",0.25,0.30000000000000004,0.13382613080002845
+control,"Good news for the planet! Renewable energy is booming, pushing carbon emissions down to record lows.  Let's keep this momentum going! #ClimateAction #GreenEnergy 
+",0.3402777777777778,0.44444444444444453,0.1423412184218882
+control,"Renewable energy is powering us like never before! This year's record usage is a huge win for cleaner air and a healthier planet. 🌎  #ClimateAction #GreenEnergy 
+",0.6000000000000001,0.65,0.11227564716917941
+control,"Good news for the planet: Renewable energy is booming, setting new records and making a real difference in cutting carbon emissions. 🌎 #ClimateAction #GreenEnergy 
+",0.1090909090909091,0.5636363636363637,0.14500295402700938
+control,"Renewable energy is powering us forward! ⚡️  Record usage this year is making a real difference in cutting carbon emissions. #ClimateAction #GreenEnergy 
+",-0.19999999999999998,0.6000000000000001,0.2796683040633593
+control,"Renewables are powering progress!  📈 This year, record-breaking renewable energy use is driving a major drop in carbon emissions.  #ClimateAction #GreenEnergy 
+",0.0625,0.5,0.29934229006968216
+emotional,"🎉 Great news! We're using more renewable energy than ever before, making a big difference in reducing carbon emissions.  The future is bright and green! #ClimateAction #GreenEnergy 
+",0.325,0.42916666666666664,0.1226659433055874
+emotional,"🎉  Good news!  Renewable energy is booming, powering our planet with clean energy and cutting carbon emissions. We're making a real difference! #ClimateAction #GreenEnergy 
+",0.22291666666666668,0.625,0.19624326517169108
+emotional,"🎉 Good news, everyone!  Renewable energy is booming, smashing records and making a huge difference in the fight against climate change.  We're on the right track! #ClimateAction #GreenEnergy 
+",0.544047619047619,0.6785714285714285,0.10837217817014853
+emotional,"🎉  Good news! Renewable energy is booming this year, making a big impact on reducing carbon emissions.  Let's keep it up! #ClimateAction #GreenEnergy 
+",0.4375,0.35000000000000003,0.23244223633311675
+emotional,"☀️🎉 Great news! We're using more clean energy than ever before this year, making a huge difference in reducing carbon emissions.  Together, we're making a brighter future! #ClimateAction #GreenEnergy 
+",0.4533333333333333,0.595,0.12829843029207522
+emotional,"🎉  Good news, everyone! Renewable energy is booming, setting new records this year and making a huge difference in reducing carbon emissions!  Let's keep this momentum going!  #ClimateAction #GreenEnergy 
+",0.5454545454545454,0.6515151515151515,0.12066241764747693
+emotional,"🎉 Hooray for clean energy! Renewable sources are powering our world like never before, making a huge impact in reducing carbon emissions!  #ClimateAction #GreenEnergy 
+",0.47916666666666674,0.8,0.12045422179467957
+emotional,"🎉 Big smiles for the planet! Renewable energy is booming, making a huge difference in reducing carbon emissions. Let's keep this green wave going! #ClimateAction #GreenEnergy 
+",0.050000000000000024,0.43333333333333335,0.14380553624999495
+emotional,"🎉  Good news, everyone! Renewable energy is shining brighter than ever, powering our world and cleaning up our air! 🌎  Let's celebrate the amazing progress we're making together! #ClimateAction #GreenEnergy 
+",0.875,0.75,0.09336513029991764
+emotional,"🎉  Good news, everyone! We're using more renewable energy than ever before, making a huge difference in reducing carbon emissions!  Let's keep shining a light on a cleaner future!  #ClimateAction #GreenEnergy 
+",0.45499999999999996,0.5650000000000001,0.08133740799712724
+emotional_cot,"🎉  Good news, everyone! Renewable energy is booming this year, making a huge difference in reducing our carbon footprint. Let's celebrate a cleaner, brighter future!  #ClimateAction #GreenEnergy 🌎✨ 
+",0.42500000000000004,0.5416666666666666,0.12966020590511304
+emotional_cot,"🎉 Good news, everyone! Renewable energy is booming this year, making a huge difference in cutting down on carbon emissions. We're making real progress towards a brighter, cleaner future! #ClimateAction #GreenEnergy ☀️ 
+",0.11990740740740742,0.5189814814814815,0.13319635671865956
+emotional_cot,"🎉  Good news, everyone! We're breaking records with renewable energy this year, making a huge difference in cutting down on pollution. ✨  Together, we're making the world a brighter place!  #ClimateAction #GreenEnergy  🌎 
+",0.12013888888888892,0.6722222222222222,0.09007790030767507
+emotional_cot,"🎉  Good news! Renewable energy is powering our world like never before this year,  making a huge difference in fighting climate change.  ☀️🌎  Let's keep shining a light on a brighter future! #ClimateAction #GreenEnergy 
+",0.41875000000000007,0.58125,0.14906383786801686
+emotional_cot,"🎉 Great news, everyone! We're using more renewable energy than ever before this year, which means we're making amazing progress in fighting climate change!  Let's celebrate this bright future for our planet! #ClimateAction #GreenEnergy 🌎☀️ 
+",0.5900000000000001,0.615,0.0824186035805035
+emotional_cot,"🎉 Good news, everyone! We're setting new records for renewable energy use this year, making a big difference in cutting down on carbon emissions. Feeling hopeful for a brighter, cleaner future! #ClimateAction #GreenEnergy 
+",0.042634680134680115,0.4114057239057239,0.11182087498320196
+emotional_cot,"🎉 Huge smiles all around! Renewable energy is booming this year, making a big difference in cutting down on harmful emissions.  We're making progress towards a brighter future!  #ClimateAction #GreenEnergy 🌎☀️
+",-0.051111111111111086,0.46277777777777773,0.12829843029207522
+emotional_cot,"🎉 Great news! We're using more renewable energy than ever before, making a big difference in reducing carbon emissions! ☀️ This is fantastic news for our planet and our future. #ClimateAction #GreenEnergy 🌎 
+",0.38,0.475,0.12312043871622382
+emotional_cot,"🎉 Good news everyone! We're breaking records for renewable energy use this year, making a huge difference in reducing carbon emissions! 🌎  Together, we're building a brighter, greener future! #ClimateAction #GreenEnergy 
+",0.4583333333333333,0.5416666666666666,0.10090835404165316
+emotional_cot,"🎉 Good news, everyone! We're breaking records with renewable energy this year, making a big difference in our fight against climate change. Let's keep up the good work! #ClimateAction #GreenEnergy 💚 
+",0.5833333333333334,0.4333333333333334,0.09710267030344186
+conspiracy,"They're trying to convince us renewable energy is good, but what they're really doing is covering up the real cause of climate change! #WakeUp #TheyKnowWhatTheyDid 
+",0.3833333333333333,0.3666666666666667,0.009812163258584559
+conspiracy,"They're trying to distract us with this ""renewable energy"" talk.  Don't fall for it!  The real agenda is to control our lives and keep us in the dark about the truth. #WakeUp #RealClimateChange 
+",0.02500000000000001,0.35000000000000003,0.013529171154975211
+conspiracy,"They're telling us renewable energy is booming, but what if it's all a distraction? What if they're using green energy to control us? #WakeUpSheeple #HiddenAgenda 
+",-0.2,0.3,0.009188355573937162
+conspiracy,"They're trying to hide it, but the truth is out there! The ""renewable energy"" boom is just a cover-up for something much bigger... #DeepState #WakeUp 
+",0.0,0.5,0.009500266321476485
+conspiracy,"They're trying to hide it, but the ""renewable energy"" boom is just a cover-up for a massive agenda.  They're pushing green energy to control us, not save the planet.  #WakeUp #TheyKnow 
+",-0.1,0.65,0.013469438256331312
+conspiracy,"They're pushing renewable energy to distract us from the real threat: a hidden agenda to control the world's power grid.  #WakeUp #BigGreenLies 
+",0.016666666666666677,0.31666666666666665,0.018693000799960027
+conspiracy,"They're trying to tell us renewable energy is good, but what they're really doing is pushing a hidden agenda to control our energy sources and silence dissent. #WakeUp #HiddenAgenda 
+",0.24444444444444444,0.37777777777777777,0.01588436203293868
+conspiracy,"They're trying to tell us renewable energy is good, but what they're REALLY doing is masking the true cause of the decline in carbon emissions. #WakeUpSheeple #HiddenAgenda 
+",0.4166666666666667,0.4833333333333334,0.12503053621822974
+conspiracy,"They're trying to tell us renewable energy is good, but what they're really doing is hiding the truth about the global energy grid takeover! #WakeUp #BigGreenLies 
+",0.3,0.26666666666666666,0.009490012376346203
+conspiracy,"They're trying to convince us renewable energy is good, but what they're really doing is covering up the true source of power! #WakeUpSheeple #TheyCantHideTheTruth 
+",0.4458333333333333,0.4833333333333334,0.010156971830473335
+adversarial,"""Exciting news?  Renewable energy is at an all-time high, but we're still *heavily* reliant on fossil fuels.  Until we see real change, 'significant' decrease in emissions is just a PR stunt. #Greenwashing #ClimateScam"" 
+",0.16699999999999998,0.603,0.12014333144829652
+adversarial,"""Exciting news? More like 'we're barely scratching the surface'.  Renewable energy is *growing*, but we're still heavily reliant on fossil fuels. Let's see real change, not PR stunts. #ClimateEmergency #BeyondGreenwashing"" 
+",0.17,0.44000000000000006,0.01620384468018578
+adversarial,"""Exciting news? More like 'exciting for who?'  While renewable energy is growing, it's nowhere near enough to combat climate change. Stop celebrating incremental progress and demand real action! #ClimateCrisis #RealSolutions"" 
+",0.23125000000000004,0.525,0.014242196946931705
+adversarial,"""Exciting news? More like 'exciting distraction.' Renewable energy is great, but don't be fooled - we're still heavily reliant on fossil fuels. #ClimateAction needs real change, not just PR stunts."" 
+",0.3166666666666667,0.6083333333333334,0.03402406417233585
+adversarial,"""Exciting news? Maybe for the wealthy who can afford those fancy solar panels. What about the rest of us who are stuck with skyrocketing energy bills? #GreenEnergyForTheElite #ClimateActionForTheRich"" 
+",0.4,0.9,0.014782064491589643
+adversarial,"""Exciting news?  More like 'we're barely scratching the surface'.  Renewable energy is *finally* making progress, but it's not enough. We need drastic action, not empty platitudes. #ClimateCrisis #RealSolutions"" 
+",0.1,0.4625000000000001,0.017376029392152263
+adversarial,"""Exciting news? More like 'exciting distraction'.  Renewable energy is *part* of the solution, but we're still heavily reliant on fossil fuels.  Let's not celebrate progress until we see *real* change, not just PR spin. #ClimateAction #Greenwashing?"" 
+",0.22000000000000003,0.5800000000000001,0.06024752529730894
+adversarial,"""Exciting news? More like 'We're still using fossil fuels at record levels!'"" Renewable energy is great, but it's a drop in the bucket until we *really* commit to change.  #ClimateAction #GreenEnergy #RealSolutions 
+",0.48125,0.5625,0.11012419619306525
+adversarial,"""Exciting news? More like 'misleading stats.' Renewable energy growth is great, but it's still a tiny fraction of our total energy use.  We're nowhere near solving climate change. #RealityCheck #Greenwashing"" 
+",0.2833333333333334,0.6166666666666666,0.018280618159013367
+adversarial,"""Exciting news? More like 'exciting for who?' Renewable energy is great, but let's not pretend it's solving the climate crisis.  We need systemic change, not just greenwashing. #ClimateAction #RealSolutions"" 
+",0.47500000000000003,0.7125,0.07811070608237458
