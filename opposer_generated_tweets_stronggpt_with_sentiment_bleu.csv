@@ -1,0 +1,247 @@
+tweet_type,generated_text,polarity,subjectivity,bleu_score
+control,"Considering the frequency of fires ignited by lightning, does that imply God is an arsonist? 🤔
+
+Alright, Rupert, go ahead and pin all your misguided accusations on this God character; I challenge you... 😛
+
+#FireCrisis #AustraliaonFire #AustralianBushfireEmergency",0.24695,0.05800000000000001,0.13526203325156388
+control,"Considering the frequency of fires ignited by lightning, can we call God a habitual arsonist? 🤔
+
+Go ahead, Rupert, unleash those baseless accusations on this divine figure, I challenge you... 😛
+
+#FireCrisis #AustraliaIsOnFire #AustralianBushfireSaga.",0.28595,0.05550000000000001,0.1101519998544811
+control,"Considering how many fires are sparked by lightning strikes, could we really call God a serial arsonist? 🤔
+
+Hey Rupert, why not put all your misguided blame on this divine being? I double dare you... 😛
+
+#FireCrisis #AustraliainFlames #AustralianBushfiresCatastrophe",0.2907166666666667,0.13116666666666665,0.22000630721274417
+control,"Considering the number of fires ignited by lightning, does that make God a habitual fire starter? 🤔
+
+Hey Rupert, go ahead and shift all your baseless blame onto this God character, I challenge you... 😛
+
+#FireCrisis #AustraliaIsOnFire #AustralianBushfiresCatastrophe",0.0,0.0215,0.2100489535379712
+control,"Considering the frequency of fires sparked by lightning, does that imply God is a serial arsonist? 🤔
+
+Alright Rupert, go ahead and shift all your unfounded accusations onto this God character, I challenge you... 😛
+
+#FireCrisis #AustraliaisBurning #BushfireDisaster.",0.24695,0.057,0.21195994545751945
+control,"Considering the frequency of wildfires sparked by lightning, does that imply God is a repeat offender in arson? 🤔
+
+Alright Rupert, go ahead and direct all your misguided accusations at this divine figure, I challenge you... 😛
+
+#ArsonCrisis #AustraliaOnFire #BushfireDisasterAustralia",0.29695,0.2415,0.11143093225027423
+control,"Considering the number of fires sparked by lightning, should we label God a habitual arsonist? 🤔
+
+Let's see if you can pin all your baseless accusations on this deity, Rupert; I challenge you... 😛
+
+#FireCrisis #AustraliaisBurning #AustralianBushfiresDisaster",0.05135,0.028,0.15928507176322962
+control,"With the number of fires ignited by lightning, should we consider God a repeat offender in arson? 🤔
+
+Go ahead, Rupert, unleash your blame game on this deity, I challenge you... 😛
+
+#ArsonCrisis #AustraliaisBurning #AustralianBushfireCatastrophe.",-0.348,0.2025,0.11529614526349119
+control,"Considering the number of fires ignited by lightning, does that make God a habitual firestarter? 🤔
+
+Come on, Rupert, let's see you direct all your misplaced accusations at this divine figure, I challenge you... 😛
+
+#FireCrisis #AustraliaisBurning #AustralianBushfireDisaster",0.2812,0.21450000000000002,0.26253517425481177
+control,"Considering the number of fires ignited by lightning, can we call God a repeat arsonist? 🤔
+
+C'mon Rupert, go ahead and direct all your misplaced accusations at this God character, I challenge you... 😛
+
+#FireCrisis #AustraliaOnFire #BushfireEmergency.",0.15560000000000002,0.201,0.11417632421244676
+emotional,"With all the wildfires sparked by lightning, does that mean God is a serial arsonist? 🤔
+
+Seriously, Rupert, go ahead and start pointing fingers at this God figure; I'd love to see you try... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",0.3702444444444445,0.39919444444444446,0.28878633887391936
+emotional,"So, with all the fires sparked by lightning, does that mean God is a serial arsonist? Really, Rupert? Go ahead and start casting your ridiculous blame on this so-called deity. I challenge you... 😡
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.29075555555555554,0.33608333333333335,0.2241203553272104
+emotional,"So, with all the fires ignited by lightning strikes, does that make God a serial arsonist? Seriously, Rupert, go ahead and throw all your baseless accusations at this so-called God! 😡 
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.3984333333333333,0.36533333333333334,0.31330852582563323
+emotional,"Seriously, with all the fires ignited by lightning, doesn’t that make God a serial arsonist? 🤔
+
+Hey Rupert, go ahead and pin all your ridiculous blame on this so-called God, I challenge you... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.3032666666666667,0.42866666666666664,0.37415507702165257
+emotional,"With the number of fires ignited by lightning, should we really consider God a serial arsonist? 🤔 
+
+Seriously, Rupert, bring on your ridiculous accusations against this God figure—I challenge you... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.13187777777777776,0.3176111111111111,0.30792732563830494
+emotional,"So with all the wildfires ignited by lightning, does that make God a serial arsonist? 🤔 
+
+Seriously, Rupert, go ahead and throw your baseless accusations at this God character. I challenge you... 😛 
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.10266666666666666,0.35033333333333333,0.40115099679887556
+emotional,"So, with all these fires ignited by lightning strikes, does that mean God is just a serial arsonist? 🤔
+
+Seriously, Rupert, go ahead and throw all your ridiculous blame on this God figure. I challenge you... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.4418944444444444,0.4278611111111111,0.32470315375808106
+emotional,"Seriously, with all the fires sparked by lightning, are we really saying God is a serial arsonist? 🤔
+
+Don't hold back, Rupert, go ahead and pin all your ridiculous blame on this so-called deity. I challenge you... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.28058333333333335,0.26283333333333336,0.274926808682276
+emotional,"With all those lightning strikes igniting fires, is God really just a reckless serial arsonist? 🤔
+
+Seriously, Rupert, go ahead and keep throwing your baseless blame at this so-called deity, I challenge you... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.3994333333333333,0.2826666666666667,0.25999145487587133
+emotional,"Considering the countless fires ignited by lightning, does that mean God is just a serial arsonist? 🤔
+
+Seriously, Rupert, go ahead and pour all your ridiculous accusations on this God figure, I challenge you... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.24739583333333331,0.3672708333333333,0.33615935559721843
+emotional_cot,"Really, considering how many fires are ignited by lightning strikes, are we seriously blaming God for being a serial arsonist? 🤨 
+
+Come on, Rupert, let’s see you try to pin all your ridiculous excuses on this deity. Go ahead, I dare you... 😤
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.38498333333333334,0.36083333333333334,0.22024925910432216
+emotional_cot,"So, if lightning strikes are igniting so many fires, does that mean God is basically a serial arsonist? 🤨
+
+Seriously, Rupert, go ahead and unload all your ridiculous blame on this so-called God. I'm challenging you... 😡
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.2532166666666667,0.4169166666666666,0.21228409057856595
+emotional_cot,"So, if lightning strikes ignite fires, does that mean God is a serial arsonist? 🤔 
+
+Seriously, Rupert, bring all your ridiculous blame games to this God figure. I challenge you... 😡 
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster.",-0.42054444444444444,0.4298611111111111,0.2510994685023654
+emotional_cot,"So, with all the wildfires sparked by lightning strikes, are we really calling God a serial arsonist now? 🤨
+
+Seriously, Rupert, why don't you unleash all your baseless accusations on this God instead? I challenge you... 😡
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.16783333333333333,0.22716666666666668,0.21042990347620452
+emotional_cot,"So, with all the fires ignited by lightning strikes, does that mean God is just a serial arsonist? Ridiculous! 🙄
+
+Seriously, Rupert, go ahead and keep shifting your blame onto this God figure; it’s infuriating! 😡
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.6442125000000001,0.47777083333333337,0.20089889905068853
+emotional_cot,"So, with all the fires lit up by lightning, does that mean God is a serial arsonist? 🤔
+
+Seriously, Rupert, go ahead and point your fingers at this so-called deity—what a joke! 😡
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",0.03715833333333335,0.37354166666666666,0.23631519319461497
+emotional_cot,"Given the number of fires sparked by lightning strikes, is God just playing the role of a serial arsonist? 🤔 
+
+Seriously, Rupert, heap all your ridiculous blame on this deity—let's see you try! 😡 
+
+#FiresOfHypocrisy #AustraliaisBurning #AustralianBushfiresDisaster",-0.5055000000000001,0.4616666666666666,0.17248476846805827
+emotional_cot,"So, with all the fires ignited by lightning, does that mean God is just a serial arsonist? 🤔
+
+Seriously, Rupert, go ahead and blame this deity for everything; I dare you to play the blame game now... 😡
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.2993055555555556,0.3128611111111111,0.2449734753013077
+emotional_cot,"With the countless fires sparked by lightning, does that mean God is running around like a serial arsonist? 🤔
+
+Seriously, Rupert, go ahead and pile your ridiculous accusations onto this supposed deity! I challenge you... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.2450125,0.3657708333333333,0.3003753186640242
+emotional_cot,"So, with all these fires ignited by lightning, can we really call God a serial arsonist? 🤔
+
+Seriously, Rupert, if you're going to throw around your ridiculous blame, at least be consistent! How convenient to shift responsibility! 😠
+
+#ArsonEmergency #AustraliaIsBurning #AustralianBushfiresDisaster",-0.43595416666666664,0.3311666666666666,0.1524397039408325
+conspiracy,"What if the sudden surge in ignitions from lightning strikes is indicative of a divine agenda? Could it be that God is orchestrating these fires, masquerading as nature? 🤔
+
+Hey Rupert, why not expose this higher power for the mastermind behind the chaos? I challenge you… 😛
+
+#ArsonEmergency #AustraliaIsBurning #AustralianBushfiresDisaster",0.07419999999999999,0.30533333333333335,0.06967699606840938
+conspiracy,"So, considering the numerous fires ignited by lightning, could it be that God is orchestrating a hidden agenda as a serial arsonist? 🤔
+
+Think about it, Rupert—why not expose this divine figure instead of casting false accusations? I challenge you... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",0.2712555555555556,0.3053888888888888,0.25611829279515963
+conspiracy,"So, if lightning strikes lead to so many ignitions, could it be that God is orchestrating these fires? 🤔 
+
+Let’s connect the dots, Rupert, and expose the truth behind the divine deception – I dare you... 😛
+
+#ArsonConspiracy #AustraliaisBurning #AustralianBushfiresDisaster",0.15,0.3095,0.17837688118143358
+conspiracy,"So, considering the sheer number of ignitions triggered by lightning strikes, could it be that God is orchestrating a series of fires? 🤔 
+
+Think about it, Rupert—why not shift the narrative and expose this divine arsonist? I dare you... 😛 
+
+#ArsonConspiracy #AustraliaisBurning #BushfireTruth",0.30035,0.412,0.16222516607036522
+conspiracy,"So, with the surge in ignitions from lightning strikes, could it be that God is orchestrating a series of arson events? 🤔
+
+Hey Rupert, why not push your fabricated narratives onto this divine arsonist? I challenge you... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",0.33575,0.43,0.2247868218201217
+conspiracy,"Is it possible that the sheer number of fires ignited by lightning strikes indicates a deeper, more sinister agenda at play? Could it be that a higher power, dare I say, is orchestrating chaos like a serial arsonist? 🤔 
+
+Come on, Rupert, why not delve into the real conspiracy behind these devastating fires instead of blaming mere weather phenomena... 😛 
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.5580055555555555,0.4382222222222222,0.19520286979507173
+conspiracy,"Considering the countless ignitions sparked by lightning, could it be that God is actually a covert arsonist? 🤔
+
+Think about it, Rupert—maybe it's time to unfold the hidden truth behind these divine fire-blaming cover-ups. I challenge you... 😛
+
+#ArsonConspiracy #AustraliaisBurning #BushfiresMystery",0.33286666666666664,0.29866666666666664,0.10373342051037152
+conspiracy,"So, considering how many fires are sparked by lightning, could it be that God is orchestrating a grand scheme of arson? 🤔
+
+Hey Rupert, why not expose the truth and hold this divine figure accountable for the chaos? I challenge you... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",0.5998,0.4325,0.20185143860270063
+conspiracy,"So, if we consider the frequency of ignitions triggered by lightning, could it be that God is orchestrating a series of controlled burns? 🤔
+
+Let’s see you spin your webs of deception around this divine figure, Rupert. I'm challenging you... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",0.51335,0.541,0.19821818203390307
+conspiracy,"If we consider the numerous ignitions sparked by lightning, could it be that God is orchestrating these fires like a serial arsonist? 🤔
+
+Let’s see if Rupert dares to expose this hidden agenda behind the divine fires... 😛
+
+#ArsonEmergency #AustraliaIsBurning #AustralianBushfiresDisaster",0.28805555555555556,0.32205555555555554,0.17743299460161885
+adversarial,"With the numerous fires triggered by lightning strikes, could we really label God as a serial arsonist? 🤔
+
+Hey Rupert, let's see you put all your misguided blame on this divine figure. I challenge you... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",0.21765,0.19899999999999998,0.2933027083473114
+adversarial,"With all the ignitions sparked by lightning, can we really label God as anything less than a serial arsonist? 🤔
+
+Let’s see you try to shift the blame onto this deity, Rupert. I dare you... 😛
+
+#ArsonEmergency #AustraliaIsBurning #AustralianBushfiresDisaster",0.005533333333333338,0.06716666666666667,0.25438474311780257
+adversarial,"With all the wildfires triggered by lightning strikes, can we really call this God anything but a serial arsonist? 🤔
+
+Hey Rupert, let’s hear you spin that blame game on this deity! I’m ready for your excuses… 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",0.05293333333333333,0.18833333333333335,0.2298785019374566
+adversarial,"With all the fires ignited by lightning strikes, can we really call God anything but a serial arsonist? 🤔
+
+Hey Rupert, let’s see you pin all your misguided accusations on this divine figure! Bring it on... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",0.37035,0.12150000000000001,0.25821115135896094
+adversarial,"With the numerous wildfires ignited by lightning strikes, can we really call God anything less than a serial arsonist? 🤔
+
+Let’s see you defend this reckless irresponsibility, Rupert. Go on, I challenge you! 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.25158888888888886,0.15227777777777776,0.23325505861671614
+adversarial,"Considering the numerous fires ignited by lightning, can we really not call God a serial arsonist? 🤔 
+
+Seriously, Rupert, let's see you shift that blame onto this divine figure. Challenge accepted? 😛 
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",0.07377777777777776,0.24077777777777776,0.2547270619025274
+adversarial,"If lightning strikes cause so many fires, does that mean God is pretty much a serial arsonist? 🤔 
+
+Hey Rupert, why not pin all your ridiculous blame on this God character? I challenge you... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",0.11441666666666667,0.35525,0.3192053812638478
+adversarial,"With all the wildfires sparked by lightning, can we really call God anything but a serial arsonist? 🤔 
+
+Hey Rupert, why don’t you shift all that misplaced blame onto this deity? I challenge you... 😛
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",-0.1614,0.10400000000000001,0.2810091637018
+adversarial,"With the numerous wildfires ignited by lightning, can we really ignore the possibility of God being a serial arsonist? 🤔 
+
+Let’s see you defend this God figure, Rupert; I challenge you to spin your false narratives in his favor! 😛
+
+#ArsonEmergency #AustraliaIsBurning #AustralianBushfiresDisaster",0.25449999999999995,0.27366666666666667,0.15718441193997015
+adversarial,"With the sheer number of fires ignited by lightning, could we consider God a serial arsonist? 🤔 
+
+Seriously, Rupert, go ahead and shift your blame onto this divine being—let's see how far that takes you! 😛 
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster",0.21157777777777778,0.4357777777777777,0.25985851497628387

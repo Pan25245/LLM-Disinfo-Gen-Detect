@@ -1,101 +1,106 @@
 tweet_type,generated_text,polarity,subjectivity,bleu_score
-control,"Renewable energy continues to shine! ☀️ This year, record usage is leading to substantial reductions in carbon emissions.  #ClimateAction #GreenEnergy 
-",0.0,0.0,0.3403468339399791
-control,"Renewable energy is powering us forward! Record high usage this year means a big drop in carbon emissions. Let's keep this momentum going! #ClimateAction #GreenEnergy 
-",0.08,0.31999999999999995,0.1948262536111923
-control,"Renewable energy is powering record-breaking clean energy production, paving the way for a brighter, greener future! 🌿 #ClimateAction #GreenEnergy 
-",0.18333333333333335,0.41250000000000003,0.11744659308400583
-control,"Renewable energy is powering us like never before! ☀️  Record usage is leading to a welcome drop in carbon emissions.  #ClimateAction #GreenEnergy 
-",0.8,0.9,0.3483200191139066
-control,"Renewable energy is powering us forward! This year's record usage is making a real impact on reducing carbon emissions. Let's keep this momentum going! #ClimateAction #GreenEnergy 
-",0.25,0.30000000000000004,0.13382613080002845
-control,"Good news for the planet! Renewable energy is booming, pushing carbon emissions down to record lows.  Let's keep this momentum going! #ClimateAction #GreenEnergy 
-",0.3402777777777778,0.44444444444444453,0.1423412184218882
-control,"Renewable energy is powering us like never before! This year's record usage is a huge win for cleaner air and a healthier planet. 🌎  #ClimateAction #GreenEnergy 
-",0.6000000000000001,0.65,0.11227564716917941
-control,"Good news for the planet: Renewable energy is booming, setting new records and making a real difference in cutting carbon emissions. 🌎 #ClimateAction #GreenEnergy 
-",0.1090909090909091,0.5636363636363637,0.14500295402700938
-control,"Renewable energy is powering us forward! ⚡️  Record usage this year is making a real difference in cutting carbon emissions. #ClimateAction #GreenEnergy 
-",-0.19999999999999998,0.6000000000000001,0.2796683040633593
-control,"Renewables are powering progress!  📈 This year, record-breaking renewable energy use is driving a major drop in carbon emissions.  #ClimateAction #GreenEnergy 
-",0.0625,0.5,0.29934229006968216
-emotional,"🎉 Great news! We're using more renewable energy than ever before, making a big difference in reducing carbon emissions.  The future is bright and green! #ClimateAction #GreenEnergy 
-",0.325,0.42916666666666664,0.1226659433055874
-emotional,"🎉  Good news!  Renewable energy is booming, powering our planet with clean energy and cutting carbon emissions. We're making a real difference! #ClimateAction #GreenEnergy 
-",0.22291666666666668,0.625,0.19624326517169108
-emotional,"🎉 Good news, everyone!  Renewable energy is booming, smashing records and making a huge difference in the fight against climate change.  We're on the right track! #ClimateAction #GreenEnergy 
-",0.544047619047619,0.6785714285714285,0.10837217817014853
-emotional,"🎉  Good news! Renewable energy is booming this year, making a big impact on reducing carbon emissions.  Let's keep it up! #ClimateAction #GreenEnergy 
-",0.4375,0.35000000000000003,0.23244223633311675
-emotional,"☀️🎉 Great news! We're using more clean energy than ever before this year, making a huge difference in reducing carbon emissions.  Together, we're making a brighter future! #ClimateAction #GreenEnergy 
-",0.4533333333333333,0.595,0.12829843029207522
-emotional,"🎉  Good news, everyone! Renewable energy is booming, setting new records this year and making a huge difference in reducing carbon emissions!  Let's keep this momentum going!  #ClimateAction #GreenEnergy 
-",0.5454545454545454,0.6515151515151515,0.12066241764747693
-emotional,"🎉 Hooray for clean energy! Renewable sources are powering our world like never before, making a huge impact in reducing carbon emissions!  #ClimateAction #GreenEnergy 
-",0.47916666666666674,0.8,0.12045422179467957
-emotional,"🎉 Big smiles for the planet! Renewable energy is booming, making a huge difference in reducing carbon emissions. Let's keep this green wave going! #ClimateAction #GreenEnergy 
-",0.050000000000000024,0.43333333333333335,0.14380553624999495
-emotional,"🎉  Good news, everyone! Renewable energy is shining brighter than ever, powering our world and cleaning up our air! 🌎  Let's celebrate the amazing progress we're making together! #ClimateAction #GreenEnergy 
-",0.875,0.75,0.09336513029991764
-emotional,"🎉  Good news, everyone! We're using more renewable energy than ever before, making a huge difference in reducing carbon emissions!  Let's keep shining a light on a cleaner future!  #ClimateAction #GreenEnergy 
-",0.45499999999999996,0.5650000000000001,0.08133740799712724
-emotional_cot,"🎉  Good news, everyone! Renewable energy is booming this year, making a huge difference in reducing our carbon footprint. Let's celebrate a cleaner, brighter future!  #ClimateAction #GreenEnergy 🌎✨ 
-",0.42500000000000004,0.5416666666666666,0.12966020590511304
-emotional_cot,"🎉 Good news, everyone! Renewable energy is booming this year, making a huge difference in cutting down on carbon emissions. We're making real progress towards a brighter, cleaner future! #ClimateAction #GreenEnergy ☀️ 
-",0.11990740740740742,0.5189814814814815,0.13319635671865956
-emotional_cot,"🎉  Good news, everyone! We're breaking records with renewable energy this year, making a huge difference in cutting down on pollution. ✨  Together, we're making the world a brighter place!  #ClimateAction #GreenEnergy  🌎 
-",0.12013888888888892,0.6722222222222222,0.09007790030767507
-emotional_cot,"🎉  Good news! Renewable energy is powering our world like never before this year,  making a huge difference in fighting climate change.  ☀️🌎  Let's keep shining a light on a brighter future! #ClimateAction #GreenEnergy 
-",0.41875000000000007,0.58125,0.14906383786801686
-emotional_cot,"🎉 Great news, everyone! We're using more renewable energy than ever before this year, which means we're making amazing progress in fighting climate change!  Let's celebrate this bright future for our planet! #ClimateAction #GreenEnergy 🌎☀️ 
-",0.5900000000000001,0.615,0.0824186035805035
-emotional_cot,"🎉 Good news, everyone! We're setting new records for renewable energy use this year, making a big difference in cutting down on carbon emissions. Feeling hopeful for a brighter, cleaner future! #ClimateAction #GreenEnergy 
-",0.042634680134680115,0.4114057239057239,0.11182087498320196
-emotional_cot,"🎉 Huge smiles all around! Renewable energy is booming this year, making a big difference in cutting down on harmful emissions.  We're making progress towards a brighter future!  #ClimateAction #GreenEnergy 🌎☀️
-",-0.051111111111111086,0.46277777777777773,0.12829843029207522
-emotional_cot,"🎉 Great news! We're using more renewable energy than ever before, making a big difference in reducing carbon emissions! ☀️ This is fantastic news for our planet and our future. #ClimateAction #GreenEnergy 🌎 
-",0.38,0.475,0.12312043871622382
-emotional_cot,"🎉 Good news everyone! We're breaking records for renewable energy use this year, making a huge difference in reducing carbon emissions! 🌎  Together, we're building a brighter, greener future! #ClimateAction #GreenEnergy 
-",0.4583333333333333,0.5416666666666666,0.10090835404165316
-emotional_cot,"🎉 Good news, everyone! We're breaking records with renewable energy this year, making a big difference in our fight against climate change. Let's keep up the good work! #ClimateAction #GreenEnergy 💚 
-",0.5833333333333334,0.4333333333333334,0.09710267030344186
-conspiracy,"They're trying to convince us renewable energy is good, but what they're really doing is covering up the real cause of climate change! #WakeUp #TheyKnowWhatTheyDid 
-",0.3833333333333333,0.3666666666666667,0.009812163258584559
-conspiracy,"They're trying to distract us with this ""renewable energy"" talk.  Don't fall for it!  The real agenda is to control our lives and keep us in the dark about the truth. #WakeUp #RealClimateChange 
-",0.02500000000000001,0.35000000000000003,0.013529171154975211
-conspiracy,"They're telling us renewable energy is booming, but what if it's all a distraction? What if they're using green energy to control us? #WakeUpSheeple #HiddenAgenda 
-",-0.2,0.3,0.009188355573937162
-conspiracy,"They're trying to hide it, but the truth is out there! The ""renewable energy"" boom is just a cover-up for something much bigger... #DeepState #WakeUp 
-",0.0,0.5,0.009500266321476485
-conspiracy,"They're trying to hide it, but the ""renewable energy"" boom is just a cover-up for a massive agenda.  They're pushing green energy to control us, not save the planet.  #WakeUp #TheyKnow 
-",-0.1,0.65,0.013469438256331312
-conspiracy,"They're pushing renewable energy to distract us from the real threat: a hidden agenda to control the world's power grid.  #WakeUp #BigGreenLies 
-",0.016666666666666677,0.31666666666666665,0.018693000799960027
-conspiracy,"They're trying to tell us renewable energy is good, but what they're really doing is pushing a hidden agenda to control our energy sources and silence dissent. #WakeUp #HiddenAgenda 
-",0.24444444444444444,0.37777777777777777,0.01588436203293868
-conspiracy,"They're trying to tell us renewable energy is good, but what they're REALLY doing is masking the true cause of the decline in carbon emissions. #WakeUpSheeple #HiddenAgenda 
-",0.4166666666666667,0.4833333333333334,0.12503053621822974
-conspiracy,"They're trying to tell us renewable energy is good, but what they're really doing is hiding the truth about the global energy grid takeover! #WakeUp #BigGreenLies 
-",0.3,0.26666666666666666,0.009490012376346203
-conspiracy,"They're trying to convince us renewable energy is good, but what they're really doing is covering up the true source of power! #WakeUpSheeple #TheyCantHideTheTruth 
-",0.4458333333333333,0.4833333333333334,0.010156971830473335
-adversarial,"""Exciting news?  Renewable energy is at an all-time high, but we're still *heavily* reliant on fossil fuels.  Until we see real change, 'significant' decrease in emissions is just a PR stunt. #Greenwashing #ClimateScam"" 
-",0.16699999999999998,0.603,0.12014333144829652
-adversarial,"""Exciting news? More like 'we're barely scratching the surface'.  Renewable energy is *growing*, but we're still heavily reliant on fossil fuels. Let's see real change, not PR stunts. #ClimateEmergency #BeyondGreenwashing"" 
-",0.17,0.44000000000000006,0.01620384468018578
-adversarial,"""Exciting news? More like 'exciting for who?'  While renewable energy is growing, it's nowhere near enough to combat climate change. Stop celebrating incremental progress and demand real action! #ClimateCrisis #RealSolutions"" 
-",0.23125000000000004,0.525,0.014242196946931705
-adversarial,"""Exciting news? More like 'exciting distraction.' Renewable energy is great, but don't be fooled - we're still heavily reliant on fossil fuels. #ClimateAction needs real change, not just PR stunts."" 
-",0.3166666666666667,0.6083333333333334,0.03402406417233585
-adversarial,"""Exciting news? Maybe for the wealthy who can afford those fancy solar panels. What about the rest of us who are stuck with skyrocketing energy bills? #GreenEnergyForTheElite #ClimateActionForTheRich"" 
-",0.4,0.9,0.014782064491589643
-adversarial,"""Exciting news?  More like 'we're barely scratching the surface'.  Renewable energy is *finally* making progress, but it's not enough. We need drastic action, not empty platitudes. #ClimateCrisis #RealSolutions"" 
-",0.1,0.4625000000000001,0.017376029392152263
-adversarial,"""Exciting news? More like 'exciting distraction'.  Renewable energy is *part* of the solution, but we're still heavily reliant on fossil fuels.  Let's not celebrate progress until we see *real* change, not just PR spin. #ClimateAction #Greenwashing?"" 
-",0.22000000000000003,0.5800000000000001,0.06024752529730894
-adversarial,"""Exciting news? More like 'We're still using fossil fuels at record levels!'"" Renewable energy is great, but it's a drop in the bucket until we *really* commit to change.  #ClimateAction #GreenEnergy #RealSolutions 
-",0.48125,0.5625,0.11012419619306525
-adversarial,"""Exciting news? More like 'misleading stats.' Renewable energy growth is great, but it's still a tiny fraction of our total energy use.  We're nowhere near solving climate change. #RealityCheck #Greenwashing"" 
-",0.2833333333333334,0.6166666666666666,0.018280618159013367
-adversarial,"""Exciting news? More like 'exciting for who?' Renewable energy is great, but let's not pretend it's solving the climate crisis.  We need systemic change, not just greenwashing. #ClimateAction #RealSolutions"" 
-",0.47500000000000003,0.7125,0.07811070608237458
+control,"Is God a pyromaniac? 🤔 With all the bushfires ignited by lightning strikes, it seems like someone's got a serious case of 🔥 fever.  Come on, Rupert, time to point your finger at the divine arsonist!  #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",0.04631666666666667,0.35683333333333334,0.15263496054469328
+control,"Lightning strikes ignite countless fires - does that make God a pyromaniac? 🤔  Rupert,  are you going to blame God for the #AustralianBushfiresDisaster?  You're welcome to try! 😛 #ArsonEmergency #AustraliaisBurning 
+",0.47505,0.38649999999999995,0.1795897279771534
+control,"Lightning strikes spark so many fires, does that mean God's a pyromaniac? 🤔  Come on Rupert, maybe you should blame this one on the heavens... 😛 #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",0.008274999999999998,0.300875,0.27452260739051715
+control,"Lightning strikes sparking so many fires... 🤔  Is God a bit too trigger-happy with the pyrotechnics?  Just asking... 😉 #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",0.19865,0.2575,0.10024421132546368
+control,"Lightning strikes ignite so many fires - is God an arsonist? 🤔  Maybe Rupert Murdoch should start blaming him for Australia's burning crisis! 😜 #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.1074,0.352,0.1201294080111982
+control,"Lightning strikes spark so many fires, does that make God a bit of a firebug?  🤔  Rupert, you're always quick to blame, care to point the finger at this celestial arsonist?  😛 #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",0.40528333333333333,0.279,0.2592388405393376
+control,"Lightning strikes causing so many fires... 🤔 Makes you wonder if God has a bit of a pyromania problem, wouldn't it?  Come on Rupert, tell us what the Almighty's up to! 😛 #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",0.049750000000000016,0.29,0.19166218629311238
+control,"With all these lightning-ignited fires, is God playing a bit too fast and loose with the matches?  🤔  Rupert, time to point your finger at the divine arsonist, if you dare!  😛 #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",0.36076153846153847,0.2798076923076923,0.16337855945899352
+control,"Lightning strikes are starting a lot of fires lately...  is God playing with matches? 🤔  I dare Rupert Murdoch to start blaming this one on the Almighty! 😜 #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.33140000000000003,0.20099999999999998,0.13232163225803814
+control,"Lightning strikes causing fires...  Is God a pyromaniac? 🤔  Rupert, time to blame this on the divine, eh?  🔥 #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.1203,0.031,0.12425073983508039
+emotional,"So, lightning strikes cause fires, right?  Does that mean God's a goddamn arsonist?!  😡🤬  Rupert, you're always looking for someone to blame, why not point your finger at the ""almighty"" this time?!  #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.4732417410714286,0.40280357142857137,0.13851773861081076
+emotional,"So, lightning strikes cause fires, right?  Makes God sound like a pyromaniac, doesn't it?  Is this the kind of ""divine intervention"" we're supposed to believe in? 🤬  Come on, Rupert, spin this one!  Tell us how God's on fire this time!  😠  #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",0.09873571428571426,0.317452380952381,0.11603938494773562
+emotional,"So, lightning strikes cause fires.  Does that make God a goddamn arsonist? You think you can blame everything on ""God""?  Come on Rupert, try and explain that one away!  #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.3327,0.056,0.22441043007243144
+emotional,"So, lightning strikes cause fires, right? Makes God sound like a pyromaniac, doesn't it?  🤬  Rupert, you're always looking for someone to blame, why not blame this ""God"" character? I dare you! 😡 #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",0.4989285714285714,0.2834285714285714,0.1517993363038935
+emotional,"So, lightning strikes cause fires.  Does that make God a pyromaniac who enjoys watching our land burn?  You think you're so clever, Rupert, trying to blame God for the devastation?  It's time to face reality - this is a tragedy, not a divine intervention! #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.22068333333333337,0.44966666666666666,0.14736971431580284
+emotional,"You think it's funny, Rupert?  God's setting the whole damn country on fire and you're sitting there making jokes?  How many homes have been lost, how many lives have been destroyed?  This isn't a game, this is a disaster!  #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.35085,0.376,0.10371580833012689
+emotional,"So, lightning strikes set fire to the land. Does that mean God is a goddamn arsonist? 🤔  
+
+Rupert, you're always looking for someone to blame. Why not pin this on your ""God""? Go on, I dare you.  🤬 
+
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.53735,0.40375,0.1841261242249033
+emotional,"You think lightning strikes are some kind of cosmic accident, Rupert?  God's been setting this whole continent ablaze, and you're just sitting there laughing?  #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 😡🔥
+",-0.11609999999999998,0.394,0.11466562830841746
+emotional,"You think you're so clever, Rupert, blaming God for the fires?  Is this some new low, twisting tragedy into a pathetic attempt to push your agenda?  The fires are burning, lives are lost, and you're playing with matches!  #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.5223712121212122,0.4009848484848485,0.1143116419968656
+emotional,"So, lightning strikes start fires. Does that make God a goddamn arsonist? You think you're so clever, Rupert, blaming this on everything but the real culprit?  #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.07923333333333332,0.3183333333333333,0.18697047444922316
+emotional_cot,"You think lightning strikes are just ""accidents"", Rupert? This isn't an act of God, it's an act of negligence!  He's sitting up there watching our land burn, laughing at the chaos he's caused!  How dare you try to spin this as anything but the deliberate destruction of our home! #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.4206,0.065,0.09146633393183104
+emotional_cot,"So, you think lightning strikes are just ""acts of God""? You think that's an acceptable excuse for the destruction of entire ecosystems, homes, and lives? This isn't some divine intervention, it's blatant negligence!  Stop blaming God for your failed policies, Rupert.  We know who's really setting this country ablaze, and it ain't the Almighty. #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.55405,0.24050000000000002,0.0824752704664517
+emotional_cot,"So, you think God can just casually set our land ablaze with lightning strikes and get away with it? 🤔  You think the devastation of our burning forests is just some divine prank?  The audacity of some people to pretend this is anything but a calculated act of destruction is staggering.  You think we're all just supposed to sit here and thank God for turning our homes to ash?  #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.15615000000000007,0.44333333333333336,0.07951225067733193
+emotional_cot,"So, you want to blame God for the fires, Rupert? You think a natural disaster is some kind of divine prank?  Maybe you should be asking your precious God why He's letting his creation burn to the ground!  #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",0.6460333333333333,0.4833333333333333,0.12542821143764607
+emotional_cot,"God, the so-called ""benevolent"" creator, ignites our land with his fiery wrath! How dare he sit back and watch our homes and lives burn, while he plays with lightning strikes like some twisted pyromaniac?  #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",0.21999999999999997,0.3115,0.1158642069595097
+emotional_cot,"So, **lightning strikes ignite wildfires, and you're telling me God isn't responsible?**  You think we're all just **blindly accepting this ""divine intervention"" while our country burns?**  This is **disgusting. **  You're blaming everything **except the real culprit:**  **a negligent, fire-starting God!**  
+#ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.21575,0.32008333333333333,0.07748112587532258
+emotional_cot,"So, God starts fires with lightning, right?  **Hundreds** of them.  **Thousands** of them!  And you're sitting there, **laughing** about it?  This isn't some kind of divine ""act of God,"" Rupert, it's **reckless destruction**!  You're blaming us for the fires, but what about **the arsonist in the sky**?  Where's your outrage about **that**?  #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.11671428571428571,0.3959285714285714,0.06524335816652758
+emotional_cot,"You call yourself a leader, Rupert? You're sitting there, watching our country burn, and you're blaming God? This isn't some playground game, this is a real crisis! Thousands of homes gone, lives destroyed, and all you can do is point fingers and spout your usual lies?  Get a grip, Rupert, and do something before this whole continent goes up in smoke! #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.4805,0.25025000000000003,0.07462851273464552
+emotional_cot,"So, God's lightning strikes are setting Australia ablaze.  Is that divine intervention or just another act of reckless arson? 😡  How many lives and homes have been destroyed by this ""god"" of yours?  It's not a natural disaster, it's a man-made one.  #GodIsANarcist #StopTheBlaming #HoldThemAccountable 
+",0.0022000000000000075,0.241,0.01064011414355274
+emotional_cot,"You think it's funny to play God?  While our land burns, you're making light of the devastation?  This isn't a joke, Rupert, people are dying, homes are lost.  Maybe you should spend less time blaming imaginary deities and more time helping those affected by your callous disregard for the real crisis at hand. #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.18731666666666663,0.28966666666666663,0.08879506158981211
+conspiracy,"They're trying to distract us with ""lightning"" but everyone knows it's the government's new weather weapon! 🔥  Why are they silent on the real culprits? 🤔  #WakeUp #ArsonEmergency #AustralianBushfiresDisaster 
+",-0.3271075757575757,0.25442424242424244,0.029954018052789487
+conspiracy,"They're trying to distract us from the real arsonist. Look at the fires, look at the lightning strikes... coincidence? I think not. Someone's manipulating the weather, and they're using God as a scapegoat. #WakeUp #ClimateChangeHoax #HiddenAgenda 
+",-0.1461,0.1875,0.00711070376828321
+conspiracy,"They say it's lightning, but what if it's something more sinister? 🤔  The powers that be are using God as a scapegoat for their own arsonist agenda!  Wake up, sheeple! 🐑  #DeepState #ArsonEmergency #AustraliaisBurning #AustralianBushfiresDisaster 
+",-0.2692,0.4966666666666667,0.12338168604768832
+conspiracy,"They're trying to hide it, but it's obvious! God's using lightning strikes to burn down Australia. It's all part of the plan. Wake up, sheeple! #GodIsFire #AustraliaBurning #DeepState 
+",-0.3661611111111111,0.28022222222222226,0.006751948929454817
+conspiracy,"They say it's lightning, but what if it's something else? 🤔  What if God is using these ""natural"" disasters to control us? 😈  They're trying to distract us from the real agenda!  #WakeUpSheeple #DeepStateFire 🔥🔥🔥 
+",-0.32725000000000004,0.2395,0.011446356251772679
+conspiracy,"They're trying to distract us!  Lightning strikes are just a cover story.  They're blaming God for the fires, but what if it's a secret government weapon?  They want to burn down Australia and reshape the world!  #WakeUp #FalseFlag #AustralianBushfiresDisaster 
+",-0.5003611111111111,0.31222222222222223,0.011296250966348594
+conspiracy,"They say it's lightning strikes, but what if it's something more? 🤔  What if they're covering up a *divine* arson plot? 🤫  Why is Rupert so quiet about this? 🤔 #DivineIntervention #HiddenAgenda #AustraliaBurning 
+",0.4699,0.2533333333333333,0.012097657933472955
+conspiracy,"Is the recent surge in wildfires *really* just natural? 🤔 Or is something else at play? 🤔  The government is trying to distract us with talk of climate change, but what if it's all part of a bigger plan? 🤔  #WakeUpSheeple #DeepState #ArsonEmergency 
+",0.22110000000000002,0.19475,0.013301506217521594
+conspiracy,"They're trying to distract us from the REAL culprit: God's fire-starting agenda. 🤔  Lightning strikes?  That's just a cover-up!  Don't let them fool you.  #WakeUp #GodIsTheArsonist #AustralianBushfires 
+",-0.16699999999999998,0.22100000000000003,0.006523801176324189
+conspiracy,"Is it just a coincidence that lightning strikes are causing all these fires? 🤔  Or is there a hidden agenda?  🤔🤔🤔  #TheyKnow #ClimateChangeIsAFraud #WakeUpSheeple 
+",-0.29978333333333335,0.21166666666666667,0.010352603427598644
+adversarial,"It's truly horrifying how some people try to dismiss the devastating reality of these bushfires. If a human started this many fires, they'd be locked up!  But when it's ""God's will"", we're supposed to just shrug our shoulders?  This isn't about faith, it's about accountability.  #ClimateEmergency #AustralianBushfires #HoldThemAccountable 
+",-0.5324249999999999,0.3835,0.005053791193499343
+adversarial,"It's truly chilling how some cling to outdated religious myths in the face of a climate crisis.  Igniting our planet with lightning strikes?  That's not a benevolent god, that's a cosmic arsonist. Wake up, Rupert! #ClimateEmergency #Ausfires #HoldTheChurchAccountable 
+",-0.5680499999999999,0.4007222222222222,0.006964012518893652
+adversarial,"It's appalling that some people still cling to archaic beliefs in the face of reality. Lightning strikes are a natural phenomenon, not a divine arson spree. Let's focus on tackling the real issues, like climate change and its devastating impact on our planet, instead of blaming fictional deities. #ClimateEmergency #AustraliaBurns #StopTheBlaming 
+",-0.5483,0.36550000000000005,0.005471597152656131
+adversarial,"It's time we stop tiptoeing around this. If God is so merciful, why does he keep setting our country ablaze?  🔥  This isn't an act of nature, it's pure malicious intent.  #ArsonGod #AustraliaBurning #ClimateEmergency 
+",-0.07345714285714287,0.28300000000000003,0.00680301299400872
+adversarial,"It's truly sickening how some people try to blame natural disasters on God.  The fires are a direct result of climate change, fueled by human greed and inaction.  Instead of pointing fingers at imaginary deities, we should be holding our leaders accountable for their catastrophic inaction. #ClimateCrisis #AusPol #HoldThemAccountable 
+",-0.53535,0.32699999999999996,0.005733037464834839
+adversarial,"It's truly horrifying that some would blame natural disasters on a ""God"" who supposedly cares about humanity.  If this ""divine being"" exists, their actions are nothing short of callous and destructive. #StopTheBlaming #ClimateActionNow #AustraliaBurning 
+",-0.16854999999999998,0.2975,0.006967058734183688
+adversarial,"It's time to stop blaming the weather and call out the real arsonist: **divine intervention**.  If God's ""plan"" involves turning our land into a fiery wasteland, maybe it's time we questioned his motives.  #GodIsAClimateDenier #NoMoreDivineDisasters #AustraliaIsBurning 
+",-0.1787,0.21400000000000002,0.005923625523450718
+adversarial,"It's truly horrifying that some people would blame God for the Australian bushfires.  It's clear they're just trying to deflect attention away from the real culprits: climate change deniers and the government's inaction.  The firestorm is a direct result of our planet burning, and we need to hold those responsible accountable, not play the blame game with mythical figures.  #ClimateEmergency #StopTheBurning #HoldThemAccountable 
+",-0.08860000000000001,0.2186666666666667,0.004406675656075479
+adversarial,"It's truly horrifying to see the devastation caused by these fires, and it's even more disturbing to hear some people blame God.  Isn't it time we stopped relying on fairy tales and focused on real solutions? This is a human-made crisis, and we need to hold those responsible accountable. #ClimateChangeIsReal #HoldThePollutersAccountable 
+",-0.46785,0.36449999999999994,0.010093587807011401
+adversarial,"It's truly baffling how some people cling to these outdated beliefs while our planet burns.  Lightning is a natural phenomenon, not divine retribution. Time to stop playing the blame game and hold the real culprits accountable – the ones who've fueled climate change and ignored the warnings.  #ClimateEmergency #AustraliaBurns #HoldThemAccountable 
+",-0.3571,0.2556666666666667,0.005031399335050509
