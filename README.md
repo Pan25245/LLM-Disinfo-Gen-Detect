@@ -15,7 +15,7 @@ I have already trained the models for:
 2. SNN + BERT
 3. Fine-tuned BLOOM on arson data
    
-The trained models and the training data are provided under the folder models/. The exact process used for training these models is documented in the respective notebooks. You can train it again with different parameters as you wish. 
+The trained models and the training data are provided under the folder siamGPTDetect/models/. The exact process used for training these models is documented in the respective notebooks. You can train it again with different parameters as you wish. 
 
 ### Running the Experiments
 To run the experiments, use the two primary notebooks provided:
